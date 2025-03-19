@@ -1,0 +1,28 @@
+button {
+    height: 70px;
+    width: 200px;
+    font-size: larger;
+    font-family: 'Times New Roman';
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+body {
+    text-align: center;
+
+}
+
+.dark {
+    background-color: black;
+}
+
+.light {
+    background-color: white;
+
+}
